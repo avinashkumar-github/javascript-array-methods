@@ -7,6 +7,10 @@ console.log(devices);
 let programming_languages = Array.of("NodeJS", "Java", ".Net", "PHP");
 console.log(programming_languages);
 
+//Option 3
+let sample = new Array("one", "two", "three");
+console.log(sample);
+
 //Get the length of an array
 console.log(devices.length);
 
